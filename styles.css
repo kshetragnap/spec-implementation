@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 194, 219);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(90, 3, 86);
+}
+button{
+    background-color: rgb(205, 205, 250);
+    border-radius: 25px;
+    border-color:aliceblue;
+}
+label{
+    font-size: 20px;
+}
+table{
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    th,
+    td {
+        padding: 30px;
+        width: 1px;
+        height:1px;
+        align-items: center;
+    }
+}
